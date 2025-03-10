@@ -7,9 +7,10 @@ Previously, I have worked with Prof. Alok Shukla of the department of Physics at
 
 Currently I am working with Prof. Anagh Bhaumik of the department of Materials Science and Engineering on Silicon based photodetectors. 
 
-**Update:** Beginning from Spring 2025, I am starting a project with Prof. Tiju Thomas of the department of Metallurigical and Materials Engineering at IIT Madras where I'll be probing novel heterostructures for their electronic properties. 
+**Update:** **Beginning from Spring 2025, I am starting a project with Prof. Tiju Thomas of the department of Metallurigical and Materials Engineering at IIT Madras where I'll be probing novel heterostructures for their electronic properties. **
 
 Apart from working with materials through (mainly) a computational approach and occasionally through experiments, I hold an interest in motorsports and follow the various events taking place.
+
 As a sidequest, I helped start Moksha Motorsports, IIT Gandhinagar's inaugral racing team! 
 
 I am also amazed by the night sky and like reading and probing through telescopes the vast abyss around us.
