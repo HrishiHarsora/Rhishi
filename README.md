@@ -1,5 +1,5 @@
-# Rhishi
-I am Hrishi Harsora, a sophomore in the department of Materials Science and Engineering at the Indian Institute of Technology Gandhinagar (IITGN). 
+# Hi! I am Hrishi Harsora
+I am a sophomore in the department of Materials Science and Engineering at the Indian Institute of Technology Gandhinagar (IITGN). 
 
 I work with various materials and/or several architectures such as Heterojunctions, 2D Materials, etc not only through experiments but also (predominantly) probe them through computational approaches such as Density Functional Theory, Molecular Dynamics, etc.
 
